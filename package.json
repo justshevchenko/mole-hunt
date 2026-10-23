@@ -1,0 +1,10 @@
+{
+  "name": "mole-hunt",
+  "private": true,
+  "type": "module",
+  "description": "«Полювання на кротів» — браузерна гра з таблицею лідерів",
+  "scripts": {
+    "test": "node --test \"tests/**/*.test.js\"",
+    "start": "npx --yes serve@14.2.4 web"
+  }
+}
